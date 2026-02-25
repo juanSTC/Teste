@@ -2,4 +2,6 @@ LIMÃO
 MELANCIA
 MORANGO
 laranja
+PITAYA
 MELÃO
+
